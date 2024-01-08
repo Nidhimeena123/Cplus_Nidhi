@@ -57,8 +57,8 @@ void Matrix::operator +(Matrix x)
 int main()
 {
         Matrix m,n;
-        m.input();       // Accepting Rows
-        n.input();      // Accepting Columns
+        m.input();       
+        n.input();     
         cout<<"\n First Matrix : \n\n";
         m.display();   // Displaying First Matrix
         cout<<"\n Second Matrix : \n\n";

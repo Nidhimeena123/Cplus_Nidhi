@@ -9,7 +9,7 @@ class Person{
 		
 		public:
 			
-			void set()
+			void get()
 			{
 				cout<<"Enter name :";
 				cin>>name;
@@ -19,7 +19,7 @@ class Person{
 				cin>>country;	
 			}
 			
-			void get()
+			void set()
 			{
 				cout<<endl<<"========PERSON INFORMATION=========="<<endl;
 				cout<<"Name :"<<name<<endl;
