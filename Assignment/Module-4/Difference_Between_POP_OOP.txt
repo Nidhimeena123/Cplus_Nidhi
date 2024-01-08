@@ -1,0 +1,7 @@
+            OOP                                            POP
+ -The program is divided into objects.        The program is divided into functions.
+ -Bottom-up approach.                         Top-down approach.
+ -Inheritance property is used.               Inheritance is not allowed.
+ -The existing code can be reused.	      No code reusability.
+ -use for solving big problems.	              Not suitable for solving big problems.
+ -Ex:C++, Java.                               Ex: C, Pascal

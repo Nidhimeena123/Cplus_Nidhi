@@ -1,0 +1,13 @@
+What is OOP?
+-OOP stands for Object-Oriented Programming which uses objects, classes, and other related concepts to structure and organize code. 
+- Here are some concepts in Object-Oriented Programming:
+1. Class
+2. Object
+3. Encapsulation
+4. Inheritance
+5. Polymorphism
+6. Abstraction 
+7. Method Overloading
+8. Method Overriding
+9. association
+10. Composition
